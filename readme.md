@@ -62,7 +62,7 @@ Le projet comprend :
 
 ### Ajouter vos propres niveaux
 
-Vous pouvez ajouter vos propres niveaux en modifiant le fichier `levels.py`. Le format pour définir un niveau est le suivant :
+Vous pouvez ajouter vos propres niveaux en créant un dossier `assets` modifiant le fichier `levels.py`. Le format pour définir un niveau est le suivant :
 
 ```python
 [
